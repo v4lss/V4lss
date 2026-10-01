@@ -6,7 +6,7 @@
 
 <br/>
 
-Hey, I'm **Vals** — a 20-year-old developer from Argentina,
+Hey, I'm **Vals** • a 21-year-old developer from Argentina,
 building things and picking up new tech every day.
 
 <br/>
@@ -19,7 +19,7 @@ building things and picking up new tech every day.
 
 <br/>
 
-[![Skills](https://skillicons.dev/icons?i=java,kotlin,go,ts,js,py,bun,nodejs,react,astro,electron,css,mongodb,redis&theme=dark&perline=7)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,kotlin,go,rust,ts,js,py,bun,nodejs,react,astro,electron,css,mongodb,redis,idea,webstorm,clion&theme=dark&perline=9)](https://skillicons.dev)
 
 <br/>
 
